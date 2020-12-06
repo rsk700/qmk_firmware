@@ -19,6 +19,6 @@
 #define MOUSEKEY_DELAY 0
 
 #undef DEBOUNCE
-#define DEBOUNCE 30
+#define DEBOUNCE 45
 
 #endif
